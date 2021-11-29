@@ -4,7 +4,7 @@
 
 #### riding my bike 🏍️
 
-#### and working at Keeping Current Matters 🌀
+#### and working at [Keeping Current Matters](https://www.keepingcurrentmatters.com/) 🌀
 
 I enjoy working in Javascript, TypeScript, Python, Vue.js.  
 Interested in web based software, efficient and secure data transfer, analytics, and blockchain technology.
