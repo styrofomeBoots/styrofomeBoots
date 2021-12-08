@@ -1,4 +1,4 @@
-### Hi, I'm Seth.
+### Hi, I'm Seth
 
 #### I Like fishing 🎣
 
