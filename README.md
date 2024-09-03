@@ -3,5 +3,5 @@ I enjoy working in Vue, TypeScript, Go, and Python. Interested in web based soft
 I'm always open to learning new stuff and working on cool projects.  Feel free to reach out!
 
 ## Check out my projects:
-* [rita.city: an audio visual representation of city bike share programs](https://rita.city)
-* [sethnewbill.dev: ...someday](https://sethnewbill.dev)
+* [rita.city](https://rita.city): an audio visual representation of city bike share programs
+* [sethnewbill.dev](https://sethnewbill.dev): ...someday
